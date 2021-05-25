@@ -486,6 +486,9 @@ body{
 }
 
 @media (max-width:1100px) {
+    #About{
+        height: 100%;
+    }
         #About .img-sec img{
              width: 350px;      
         }
